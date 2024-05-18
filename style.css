@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+.back{
+    color: darkblue;
+    font-size: 9rem;
+    padding: 3rem;
+}
+#sun{
+    color: orange;
+    font-size: 9rem;
+    padding: 3rem;
+}
